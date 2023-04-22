@@ -49,10 +49,7 @@
 <br/>  
 
 
-## Connect with me  
-  
 
-<br/>  
 
 
 ## Github Stats  

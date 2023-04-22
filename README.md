@@ -4,15 +4,18 @@
   
 
 
-### <div align="center">I'm Steve Feng, currently a PhD candidate in Robotics and sensors at CityU.</div>  
+### <div align="center">I'm Steve Feng, currently a PhD candidate in robotics and sensors at CityU.</div>  
   
 
 - 💡 I’m currently working on the flexible sensors for biomedical engineering.  
   
 
 - 🤖 I’m currently learning control algorithms based on reinforcement learning.  
-  
 
+
+- 🚨 My reserach interests include the bio-inspired robots, flexible sensors, advanced control algorithms.  
+  
+  
 - 💭 Fun fact: likes to daydream.  
   
 

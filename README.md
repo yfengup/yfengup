@@ -61,7 +61,7 @@
 
 <br/>  
 
-## Visitors number
+## Visitors Number
 ![Visitor Count](https://profile-counter.glitch.me/yfengup/count.svg)
 
 

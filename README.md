@@ -4,7 +4,7 @@
   
 
 
-### <div align="center">I'm Steve Feng, currently a PhD candidate in robotics and sensors at CityU.</div>  
+### <div align="center">I'm Steve Feng, currently a PhD candidate in robotics and sensors at City University of Hong Kong.</div>  
   
 
 - 💡 I’m currently working on the flexible sensors for biomedical engineering.  
@@ -19,7 +19,7 @@
 - 💭 Fun fact: likes to daydream.  
   
 
-- ✉️ Welcome all kinds of discussions on the research and development.  
+- ✉️ Welcome all kinds of discussions on the research and development!!!  
   
 
 <br/>  
